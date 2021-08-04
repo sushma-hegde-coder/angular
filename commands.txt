@@ -1,1 +1,3 @@
 ng serve --open
+
+add dependency - ng add
