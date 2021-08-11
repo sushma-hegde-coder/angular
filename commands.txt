@@ -1,7 +1,4 @@
 create a project - ng new project-name
 create component -ng g component rich-text
-
-
-ng serve --open
-
+run - ng serve --open
 add dependency - ng add
